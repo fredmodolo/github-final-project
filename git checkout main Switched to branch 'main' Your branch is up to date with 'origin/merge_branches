@@ -1,9 +1,0 @@
-git checkout main
-Switched to branch 'main'
-Your branch is up to date with 'origin/main'.
-
-git merge bug-fix-typo
-Updating 717eb6c..59a7d6b
-Fast-forward
- Shipping_Cost_Calculator.py | 2 +-
- 1 file changed, 1 insertion(+), 1 deletion(-)
