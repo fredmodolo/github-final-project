@@ -1,0 +1,13 @@
+PS C:\Users\LES\projeto_teste> cd C:\Users\LES\projeto_teste\Centralized-repository-shipping_calculations
+PS C:\Users\LES\projeto_teste\Centralized-repository-shipping_calculations> git branch -a
+  bug-fix-typo
+  fix-branch
+* main
+  remotes/origin/HEAD -> origin/main
+  remotes/origin/fix-branch
+  remotes/origin/main
+PS C:\Users\LES\projeto_teste\Centralized-repository-shipping_calculations> git branch -vv
+  bug-fix-typo 59a7d6b Fix typo in Shipping_Cost_Calculator
+  fix-branch   d94ff15 [origin/fix-branch] Add fork verification file
+* main         33c26cc [origin/main] Add PR verification output
+PS C:\Users\LES\projeto_teste\Centralized-repository-shipping_calculations>
